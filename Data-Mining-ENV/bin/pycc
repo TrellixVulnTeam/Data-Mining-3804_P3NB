@@ -1,0 +1,3 @@
+#!/home/ryant/Projects/Data-Mining-3804/Data-Mining-ENV/bin/python
+from numba.pycc import main
+main()
